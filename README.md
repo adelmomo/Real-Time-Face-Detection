@@ -21,7 +21,7 @@ The demo opens a webcam stream and runs the face detector in real time. You can 
 
 - **With Face Bluring**:
 
-[With Face Bluring Demo]("face_detection_demo_with_blur.mp4")
+[With Face Bluring Demo](face_detection_demo_with_blur.mp4)
 
 ## Prerequisites
 
