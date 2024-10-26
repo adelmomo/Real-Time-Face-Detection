@@ -17,11 +17,19 @@ The demo opens a webcam stream and runs the face detector in real time. You can 
 
 - **Without Face Bluring**:
 
-[Without Face Blurring Demo](https://github.com/adelmomo/Real-Time-Face-Detection/raw/main/face_detection_demo_without_blur.mp4)
+
+
+https://github.com/user-attachments/assets/bbcdac2b-88bb-484f-ab2a-1b54f5baf13d
+
+
 
 - **With Face Bluring**:
 
-[With Face Bluring Demo](https://github.com/adelmomo/Real-Time-Face-Detection/raw/main/face_detection_demo_with_blur.mp4)
+
+
+https://github.com/user-attachments/assets/73991c29-f929-4b20-9cd2-f785702d9649
+
+
 
 ## Prerequisites
 
